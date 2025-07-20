@@ -1,6 +1,7 @@
-@YURI-DETIREI
-DETIREI SOFTWARE
-E-MAIL: yuri.detirei@gmail.com
+<marquee>hi</marquee>
+@YURI-DETIREI<br>
+DETIREI SOFTWARE<br>
+E-MAIL: yuri.detirei@gmail.com<br>
 
 
 <!---
